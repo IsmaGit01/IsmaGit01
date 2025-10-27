@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning how to work with React ⚛️
 - 💞️ I’m looking to collaborate on unique projects 
 - 📫 How to reach me: isma.maataoui@gmail.com 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a Real Madrid fan 🤍
