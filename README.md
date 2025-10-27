@@ -2,4 +2,4 @@
 - 👀 I’m interested in creating beautiful web apps and mobile apps
 - 🌱 I’m currently learning how to work with React ⚛️
 - 💞️ I’m looking to collaborate on unique projects 
-- 📫 How to reach me: isma.maataoui@gmail.com 
+- 📫 How to reach me: ismadevs@gmail.com 
