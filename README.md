@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ismaile Maayaoui - @IsmaGit01
-- 👀 I’m interested in creating beautiful web and mobile apps
+- 👀 I’m interested in creating great web and mobile apps
 - 🌱 I’m currently learning how to work with React ⚛️
 - 💞️ I’m looking to collaborate on unique projects 
 - 📫 How to reach me: ismadevs@gmail.com 
